@@ -6,9 +6,7 @@ title: My World
 layout: default
 ---
 
-some text here
-
-{% include_relative TEST.md %}
+{% include_relative posts/tinycore10-generate-jdk11-tcz.md %}
 
 # Tiny Core Linux用のJDK11 TCZパッケージを作る
 
