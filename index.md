@@ -1,1 +1,1 @@
-Hello World
+＃Tiny Core Linux用のJDK11 TCZパッケージを作る
