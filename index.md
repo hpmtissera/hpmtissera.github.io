@@ -1,5 +1,5 @@
 ---
-title: Tiny Core Linux用のJDK11 TCZパッケージを作る
+title: My World
 ---
 
 # Tiny Core Linux用のJDK11 TCZパッケージを作る
