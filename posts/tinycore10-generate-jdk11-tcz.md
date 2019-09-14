@@ -4,9 +4,9 @@ Tiny Coreは正式のJDKビルドを提供しません。Tiny Core 10用のjava-
 
 1) hpmtissera/tinycore-jdk11-tcz リポジトリをクローンする。
 
-   https://github.com/hpmtissera/tinycore-jdk11-tcz.git
+   [https://github.com/hpmtissera/tinycore-jdk11-tcz.git](https://github.com/hpmtissera/tinycore-jdk11-tcz.git)
 
-2) OpenJDK11のtar.gzファイルをhttps://github.com/AdoptOpenJDK/openjdk11-upstream-binaries/releases　からダウンロドしtinycore-jdk11-tczフォルダ中にコピーします。
+2) OpenJDK11のtar.gzファイルを[https://github.com/AdoptOpenJDK/openjdk11-upstream-binaries/releases](https://github.com/AdoptOpenJDK/openjdk11-upstream-binaries/releases) からダウンロドしtinycore-jdk11-tczフォルダ中にコピーします。
 
 ```
 ex. OpenJDK11U-jdk_aarch64_linux_11.0.4_11.tar.gz
