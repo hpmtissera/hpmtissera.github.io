@@ -4,7 +4,7 @@ title: Tiny Core Linux用のJDK11 TCZパッケージを作る
 
 # Tiny Core Linux用のJDK11 TCZパッケージを作る
 
-Tiny Coreは正式のJDKビルドを提供しません。Tiny Core 10用のjava-installer.tczはOpenJDK 11で使いません。Tiny Coreの過去バージョンも同じです。下記のGibHubリポジトリのDockerスクリプトを利用しOpenJDK tar.gz パッケージからjdk11.tcz作るこたができます。
+Tiny Coreは正式のJDKビルドを提供しません。Tiny Core 10用のjava-installer.tczはOpenJDK 11で使いません。Tiny Coreの過去バージョンも同じです。下記の手順通りにGibHubリポジトリのDockerスクリプトを利用しOpenJDK tar.gz パッケージからjdk11.tcz作るこたができます。
 
 1) hpmtissera/tinycore-jdk11-tcz リポジトリをクローンする。
 
@@ -22,4 +22,4 @@ ex. OpenJDK11U-jdk_aarch64_linux_11.0.4_11.tar.gz
 ./build.sh
 ```
 
-4) スクリプトでjdk11.tczパッケージを作成されます。
+4) スクリプトを実行後jdk11.tczパッケージを作成されます。
